@@ -8,7 +8,12 @@ Rebels
 9 -  manager_9 / prelate
 
 Administration Team
-(ex rebel) 3 - fallen / garrick 
+(ex rebel) 3 - fallen / garrick
+13 - ?
+25 - ?
+60 - ?
+84 - ?
+87 - ?
 155 - ?
 201 - ?
 320 - ?
@@ -20,3 +25,5 @@ Administration Team
 The Concept Rebels
 <dev_1> - ?
 <dev_2> - ?
+<dev_5> - ?
+<dev_6> - ?
