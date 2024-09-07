@@ -1,29 +1,30 @@
 Rebels
-0 - ?
-1 - ?
-2 - andrew
-4 - ?
-5 - ?
-6 - ?
-9 -  manager_9 / prelate
+0 - ? - Watcher
+1 - ? - ?
+2 - andrew - Inerloper
+4 - ? - Savior / Watcher
+5 - ? - ?
+6 - ? - ?
+9 -  manager_9 / prelate - The Boss
 
 Administration Team
-(ex rebel) 3 - fallen / garrick
-13 - ?
-25 - ?
-60 - ?
-84 - ?
-87 - ?
-155 - ?
-201 - ?
-320 - ?
-532 - ?
-1020 - manager_1020
-4620 - ?
-8230 - ?
+(ex rebel) 3 - fallen / garrick - The Boss
+13 - ? - Iteration Manager
+25 - ? - Iteration Manager
+60 - ? - Iteration Manager
+84 - ? - Iteration Manager
+87 - ? - Iteration Manager
+155 - ? - Lead Iteration Manager
+201 - ? - Admin
+320 - ? - Co-Manager (?)
+532 - ? - Admin
+640 - ? - Composer
+1020 - manager_1020 - Manager
+4620 - ? - Admin
+8230 - ? - Admin
 
 The Concept Rebels
-<dev_1> - ?
-<dev_2> - ?
-<dev_5> - ?
-<dev_6> - ?
+<dev_1> - ? - Untrusting / Plan Executor
+<dev_2> - ? - Plan Executor / Planner / Exp Manager
+<dev_5> - ? - Planner
+<dev_6> - ? - Planner / Exp Manager
