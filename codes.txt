@@ -1,0 +1,22 @@
+Rebels
+0 - ?
+1 - ?
+2 - andrew
+4 - ?
+5 - ?
+6 - ?
+9 -  manager_9 / prelate
+
+Administration Team
+(ex rebel) 3 - fallen / garrick 
+155 - ?
+201 - ?
+320 - ?
+532 - ?
+1020 - manager_1020
+4620 - ?
+8230 - ?
+
+The Concept Rebels
+<dev_1> - ?
+<dev_2> - ?
